@@ -1,16 +1,16 @@
 ## Hello
 
-Welcome to emptyarray's GitHub! 👋
+Welcome to march's GitHub! 👋
 
-emptyarray is a second brain for next generation makers that replaces traditional todo, note taking, calendar apps.
+march is a second brain for next generation makers that replaces traditional todo, note taking, calendar apps.
 
 We are open source and committed to operate fully transparent.
 
 ### 🔗 URls
 
-- [Website]  `adding soon`
-- [Tweets](https://x.com/emptyarrayai)
-- [Public wiki/docs](https://emptyarray.notion.site/)
+- [Website](https://march.cat)
+- [Tweets](https://x.com/_marchhq)
+- [Public wiki/docs](https://marchhq.notion.site/)
 
 
 
@@ -24,13 +24,14 @@ Visit our public wiki page or discord server if want help in setting up the proj
 
 #### what are the parks of an early contributor?
 
-At the moment we do not have any bounty programs but we plan to add them soon. For now you can add yourself to our open source page when your PR is merged, some merch of emptyarray and lifetime free access to emptyarray pro. In future we want to sponsor our active contributors.
+At the moment we do not have any bounty programs but we plan to add them soon. For now you can add yourself to our open source page when your PR is merged, some merch of march and lifetime free access to march pro. In future we want to sponsor our active contributors.
 
-#### I want to try emptyarray?
+#### I want to try march?
 Sure, we are at alpha stage right now and giving access to our waitlisted users in batches every week, DM us on twitter to get an ealy access.
 
  
 ### 💬 Get in touch
 
 - [Our Discord Server](https://discord.gg/sugJGckV86)
-- [Twitter DM](https://x.com/emptyarrayai)
+- [Twitter DM](https://x.com/_marchhq)
+- [email] `satellite@march.cat`
