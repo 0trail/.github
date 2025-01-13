@@ -18,8 +18,8 @@ in march everything is treated as objects with types (meetings, linear issues, n
   - hey march, keep suggesting me object, type: articles I saved and objects, type: tweets I bookmarked during the weekend.  
   - send me a weekly summary email about what I have done with a procrastination score.  
  
-### 💬 Get in touch
+### 💬 get in touch
 
-- [Our Discord Server](https://discord.gg/sugJGckV86)
-- [Twitter DM](https://x.com/_marchhq)
+- [our discord Server](https://discord.gg/sugJGckV86)
+- [dwitter dm](https://x.com/_marchhq)
 - [email] `satellite@march.cat`
