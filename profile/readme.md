@@ -8,7 +8,7 @@ and blocks ( list, calendar, board, note, journal) are like Lego but customisabl
 
 an array is a blank canvas where you can add one or as many blocks you want.
 
-some examples of array:
+some examples of arrays:
 - [ ] to be added.
 
 
