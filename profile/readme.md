@@ -12,11 +12,11 @@ some examples of arrays:
 - [ ] to be added.
 
 
-btw we have an ai agent called march that's gonna work with emptyarray, feel free free to checkout the details - [here](https://github.com/emptyarrayhq/march).
+btw we have an ai agent called march that's gonna work with emptyarray, feel free free to checkout the details [here](https://github.com/emptyarrayhq/march).
 
  
 ### 💬 get in touch
 
 - [our discord Server](https://discord.gg/sugJGckV86)
-- [dwitter dm](https://x.comemptyarray)
+- [twitter dm](https://x.comemptyarray)
 - [email] `founders@emptyarray.me`
