@@ -1,6 +1,6 @@
 ## emptyarray
 
-productivity without tedious templates — a notion alternative that loads fast and purpose built for getting things done;
+productivity without tedious templates;
 
 in emptyarray everything is treated as objects with dynamic types (meetings, linear issues, notes are all objects with specific types e.g., type:meeting, type:todo, type:note).
 
