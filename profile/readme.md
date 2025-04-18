@@ -3,4 +3,4 @@
 
 Welcome to march's GitHub! 👋
 
-nothing to share for now.
+nothing to share for now, refer the pinned repo instead.
