@@ -1,6 +1,3 @@
 ## Hey There
 
-
-Welcome to march's GitHub! 👋
-
-nothing to share for now, refer the pinned repo instead.
+you have landed on a github org of a stealth company, sit tight till we fire up something;)
